@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   editor_map_editor.c                                :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: tpaaso <tpaaso@student.42.fr>              +#+  +:+       +#+        */
+/*   By: tturto <tturto@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/03/02 17:57:40 by tturto            #+#    #+#             */
 /*   Updated: 2023/03/14 17:39:26 by tpaaso           ###   ########.fr       */
